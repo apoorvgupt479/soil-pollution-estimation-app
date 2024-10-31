@@ -1,4 +1,4 @@
-**Title:** Soil Pollution Estimation App
+Soil Pollution Estimation App
 ========================================
 
 **Relevant Sustainable Development Goals (SDG):**
